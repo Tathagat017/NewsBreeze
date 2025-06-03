@@ -1,4 +1,5 @@
 # 📰 NewsBreeze - AI-Powered News Reader
+![image](https://github.com/user-attachments/assets/d1bab959-8396-4e17-86d6-c69378f40f3b)
 
 NewsBreeze is a minimalist news aggregation app that fetches the latest headlines, summarizes them using AI, and reads the summaries aloud using text-to-speech technology.
 
